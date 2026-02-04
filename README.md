@@ -10,7 +10,7 @@ QA Engineer with background in UI/UX design and Python automation.
 - DevTools, Postman, Git
 
 ## 🐛 Featured Bug Reports
-1. [Sber Student Quiz: HTML rendering bug](Bug-Reports/Sber-Student-Bug-Report.md)
+1. [Sber Student Quiz: HTML rendering bug](Bug-Reports/Sber-quiz-Bug-Report.md)
 
 ## 📚 Test Documentation
 - [Web Testing Checklist](Test-Documentation/Web-Checklist.md)
