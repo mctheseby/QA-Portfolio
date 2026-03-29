@@ -20,5 +20,4 @@ QA Engineer with background in UI/UX design and Python automation.
 - [Selenium Python examples](Automation/selenium-examples.py)
 
 ## 📫 Contact
-- LinkedIn: [your-profile](#)
-- Email: your.email@example.com
+- Email: mctheseby@gmail.com
