@@ -1,23 +1,25 @@
-# 🐞 QA Portfolio | [Maxim Nikitin]
+# 🐞 QA Portfolio | Maxim Nikitin
 
-QA Engineer with background in UI/UX design and Python automation.
+QA Engineer with background in UI/UX design. Practical experience in manual testing of web and mobile applications.
 
 ## 📌 Skills
-- Manual Testing (Web, Mobile)
+- Manual Testing (Web, Mobile iOS/Android)
 - Bug Reporting & Analysis
-- Test Documentation
-- Basic Automation (Python, Selenium)
-- DevTools, Postman, Git
+- Test Cases & Checklists
+- API Testing (Postman, REST)
+- DevTools, Jira, YouTrack, Git
+- SQL (basic), Python (basic)
 
-## 🐛 Featured Bug Reports
-1. [Sber Student Quiz: HTML rendering bug](Bug-Reports/Sber-Student-Bug-Report.md)
+## 🐛 Bug Reports
+1. [Sber Student Quiz: HTML rendering bug in React component](Bug-Reports/Sber-Student-Bug-Report.md)
+2. [Video Conferencing Server: Missing validation on external address field](Bug-Reports/VideoConf-Server-Bug-Report.md)
 
-## 📚 Test Documentation
-- [Web Testing Checklist](Test-Documentation/Web-Checklist.md)
-- [API Testing Examples](Test-Documentation/API-Tests.md)
+## 📚 Test Cases
+- [Video Conferencing Server: Web Settings & Security](Test-Cases/VideoConf-Web-Settings.md)
 
-## 🔧 Automation
-- [Selenium Python examples](Automation/selenium-examples.py)
+## ✅ Checklists
+- [Web Application Testing Checklist](Checklists/Web-Application-Checklist.md)
 
 ## 📫 Contact
 - Email: mctheseby@gmail.com
+- Telegram: @maximniki
